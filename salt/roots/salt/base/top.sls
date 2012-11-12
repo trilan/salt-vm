@@ -5,3 +5,4 @@ base:
     - nodejs
     - python
     - python.python3
+    - packages
