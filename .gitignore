@@ -1,2 +1,3 @@
 .vagrant
 salt/roots/salt/states
+salt/roots/salt/private-states
