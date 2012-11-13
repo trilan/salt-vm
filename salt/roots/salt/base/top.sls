@@ -1,5 +1,6 @@
 base:
   '*':
+    - locales
     - git
     - zeromq
     - nodejs

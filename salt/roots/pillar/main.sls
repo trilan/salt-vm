@@ -1,3 +1,7 @@
+locales:
+  - ru
+locales.default: ru_RU.UTF-8
+
 packages:
   - libjpeg8-dev
   - zlib1g-dev
